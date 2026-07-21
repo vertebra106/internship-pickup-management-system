@@ -1,6 +1,10 @@
 # Microsoft Word temporary files
 ~$*
 
+# Local internship submission materials not published to GitHub
+2项目运行视频/
+3项目设计报告.doc
+
 # Visual Studio local and build files
 .vs/
 x64/
@@ -16,4 +20,3 @@ Release/
 *.obj
 *.pdb
 *.ilk
-
